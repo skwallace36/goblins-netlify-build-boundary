@@ -1,0 +1,8 @@
+{
+  "name": "goblins-netlify-build-boundary",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
